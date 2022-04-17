@@ -13,5 +13,7 @@ public class Hypotenuse {
         int number3 = (int)Math.sqrt(Math.pow(number1, 2) + Math.pow(number2, 2));
 
         System.out.println(number3);
+
+        in.close();
     }
 }
