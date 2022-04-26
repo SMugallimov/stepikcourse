@@ -1,8 +1,8 @@
-package com.company.homework2_4;
+package com.company.homework2_1;
 
 import java.util.Scanner;
 
-public class Apples {
+public class Apples2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
