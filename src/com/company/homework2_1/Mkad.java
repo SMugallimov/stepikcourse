@@ -1,9 +1,10 @@
-package com.company.homework2_5;
+package com.company.homework2_1;
 
 import java.util.Scanner;
 
 public class Mkad {
     public static void main(String[] args) {
+
         Scanner in = new Scanner(System.in);
 
         int speed = in.nextInt();
